@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(32, 32, 32);
+  font-family: Arial, Helvetica, sans-serif;
+  color: aqua;
+}
+body button {
+  padding: 20px;
+  color: red;
+  font-size: 30px;
+  outline: none;
+  background: none;
+  border: 3px solid red;
+  box-shadow: 0 0 45px red;
+  cursor: pointer;
+  border-radius: 15px;
+}
+ body h1 {
+  text-shadow: 0 0 30px aqua;
+ }
+body input {
+  padding: 20px;
+  color: lime;
+  font-size: 20px;
+  outline: none;
+  background: none;
+  border: 3px solid lime;
+  box-shadow: 0 0 45px lime;
+  border-radius: 15px;
+}
